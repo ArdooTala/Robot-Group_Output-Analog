@@ -1,7 +1,7 @@
 ## [ABB-IRC5 Controller Group Output to Serial Input](https://github.com/ArdooTala/Robot-Group_Output-Analog.git)
 
 #### Description
-The ABB's `IRC-5 compact controller` has 16 builtin 24V digital outputs which can be grouped together to transfer binary data. This repo demonstrates how they can be grouped using the **Flex Pendant**, how the messages can be generated through [`Robots`](https://github.com/visose/Robots) plugin in [`Grasshopper`](https://www.grasshopper3d.com/) and how these signals can be transferred to an [`Arduino`](https://www.arduino.cc/) using an optocoupler.
+The ABB's **IRC-5 compact controller** has 16 builtin 24V digital outputs which can be grouped together to transfer binary data. This repo demonstrates how they can be grouped using the **Flex Pendant**, how the messages can be generated through [`Robots`](https://github.com/visose/Robots) plugin in [`Grasshopper`](https://www.grasshopper3d.com/) and how these signals can be transferred to an [`Arduino`](https://www.arduino.cc/) using an optocoupler.
 
 
 #### Topic
